@@ -11,6 +11,8 @@
     "statusBar.background": "#1e8eaa",
     "statusBar.foreground": "#e7e7e7",
     "statusBarItem.hoverBackground": "#26b2d5",
+    "statusBarItem.remoteBackground": "#1F8EED",
+    "statusBarItem.remoteForeground": "#e7e7e7",
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#1e8eaa99",
     "titleBar.inactiveForeground": "#e7e7e799"
